@@ -2,3 +2,4 @@ numpy
 tensorflow
 streamlit
 cv2
+keras
